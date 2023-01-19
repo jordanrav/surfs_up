@@ -1,6 +1,6 @@
 # surfs_up
 
-##Overview of the analysis
+## Overview of the analysis
 The point of this project is to get the summary statistics of two months in the year to see if a surf shop/ice cream shop would be a sustainable business for year round.
 
 ##Results
